@@ -1,5 +1,14 @@
-.text-box {
-  box-shadow: inset;
+body {
+  background-color: hsl(166, 100%, 37%);
+}
+
+.wrapper {
+  height: 100px;
+  width: 100px;
+  padding: 10px;
+}
+
+.wrapper2 {
   height: 100px;
   width: 100px;
   padding: 10px;
