@@ -4,12 +4,10 @@ body {
 
 .wrapper {
   height: 100px;
-  width: 100px;
+  max-width: 600px;
   padding: 10px;
+    display: inline-block;
 }
 
-.wrapper2 {
-  height: 100px;
-  width: 100px;
-  padding: 10px;
-}
+
+
