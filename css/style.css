@@ -3,11 +3,16 @@ body {
 }
 
 .wrapper {
-  height: 100px;
-  max-width: 600px;
+  box-sizing: border-box;
+  height: 300px;
+  max-width: 300px;
   padding: 10px;
-    display: inline-block;
+  border-radius: 10px;
+  margin: auto;
+  border: 2px solid hsla(256, 72%, 46%, 1);
 }
 
-
-
+.box-wrapper {
+  display: inline-block;
+  max-width: 650px;
+}
