@@ -52,4 +52,6 @@ body {
   color: white;
   font-family: sans-serif;
   flex-direction: column;
+  border: 1px solid black;
+  margin: auto;
 }
