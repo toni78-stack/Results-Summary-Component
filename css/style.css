@@ -29,6 +29,7 @@ body {
   background-color: hsl(252, 100%, 67%);
   text-align: center;
   border-radius: 15px;
+  margin-left: -2px;
 }
 
 .container2 {
@@ -54,4 +55,18 @@ body {
   flex-direction: column;
   border: 1px solid black;
   margin: auto;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.circle p {
+  font-size: 10px;
+}
+
+.circle .large-font {
+  font-size: 35px;
+}
+
+.circle .small-font {
+  box-shadow: 10px;
 }
